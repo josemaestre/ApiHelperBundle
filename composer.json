@@ -3,7 +3,7 @@
   "description": "Symfony 4 Bundle - API short and fast usual render",
   "keywords": ["api", "symfony2", "bundle", "sopinet"],
   "type": "symfony-bundle",
-  "license": "GPL2",
+  "license": "MIT",
   "minimum-stability" : "dev",
   "authors": [
     {
